@@ -1,0 +1,1 @@
+print("Dear world, \nNothing in the world is too good for you, \nGo for it!")
